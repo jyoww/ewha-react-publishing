@@ -13,7 +13,7 @@ export const SignupPage = () => {
     </div>
 
     <div className="mt-10">
-    <div className="text-center py-4 text-gray-800 border border-gray-800 mt-2">회원가입</div>
+      <div className="text-center py-4 text-gray-800 border border-gray-800 mt-2">회원가입</div>
     </div>
   </div>
   );
